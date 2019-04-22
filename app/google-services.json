@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1090009245660",
+    "firebase_url": "https://awesomshop.firebaseio.com",
+    "project_id": "awesomshop",
+    "storage_bucket": "awesomshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090009245660:android:3598dc05c97ec9d2",
+        "android_client_info": {
+          "package_name": "com.home.awesomshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090009245660-biejtue9hmh262ta2hsljigj1eb7tgtf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.home.awesomshop",
+            "certificate_hash": "688d74ca3bfe89342ae2f12139c911d1ef48209f"
+          }
+        },
+        {
+          "client_id": "1090009245660-00rhu83srbfg28t80n2nrf786e9vubfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCREC10ZFAoNgmdbJaGtC_1Wha69u3UB00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090009245660-00rhu83srbfg28t80n2nrf786e9vubfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
