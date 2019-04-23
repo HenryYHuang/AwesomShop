@@ -6,4 +6,6 @@
           android:title="@string/action_settings"
           android:orderInCategory="100"
           app:showAsAction="never"/>
+    <item android:title="Sing in" android:id="@+id/action_singin"/>
+    <item android:title="Sign out" android:id="@+id/action_signout"/>
 </menu>

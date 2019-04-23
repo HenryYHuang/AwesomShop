@@ -23,14 +23,6 @@
           }
         },
         {
-          "client_id": "1090009245660-ed0efl9aiuhcs97grrlqksu2460quk43.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.home.awesomshop",
-            "certificate_hash": "1537e168f9833501d842ef7203c133eb355bf6ce"
-          }
-        },
-        {
           "client_id": "1090009245660-00rhu83srbfg28t80n2nrf786e9vubfl.apps.googleusercontent.com",
           "client_type": 3
         }
